@@ -2,8 +2,7 @@
 
 Welcome to **Developer Levoric Learn**, an open-source platform built for developers worldwide to learn, collaborate, and grow. Our mission is to empower developers by providing educational resources, fostering an open-source community, and creating opportunities for everyone to contribute and improve.
 
-![Developer Levoric Learn Logo](https://developer.levoriclearn.com/docs/image/developer_levoric_learn_github.png)(https://developer.levoriclearn.com/)
-
+[![developer Levoric Learn Banner](https://developer.levoriclearn.com/docs/image/developer_levoric_learn_github.png)](https://developer.levoriclearn.com/)
 
 ## About Developer Levoric Learn
 
